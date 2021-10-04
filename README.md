@@ -69,11 +69,7 @@ $ docker run --rm -it htrtech/zphisher
 > Supported Platform : **`Termux`**, **`Ubuntu/Debian/Kali/Parrot`**, **`Arch Linux/Manjaro`**, **`Fedora`**
 
 ##---------------------------------------------------------------------------------------------------------------
-<! DOCTYPE html>
-<html>
-<head>
- <title>Uruguay un solo pais!!</title>
-  
+
  <h1 style="color: green;">Error 404 attack bypass DDoS</h1>
  estamos aqui para ayudarte<br>
  no estas solo<br>
