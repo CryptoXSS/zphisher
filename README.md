@@ -75,7 +75,7 @@ $ docker run --rm -it htrtech/zphisher
   <li></li>
   <li></li>
    </ol>
-<img =src "url"</img>
+ <img src="url"/>
 <h3 align="center">
 :: Workflow ::
 </h3>
