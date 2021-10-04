@@ -90,11 +90,11 @@ $ docker run --rm -it htrtech/zphisher
    <link rel="stylesheet" href="style.css">
    <link rel="stylesheet" href="style.css">
    <link rel="stylesheet" href="style.css">
-   
+   <p>
    <input type="text" placeholder="Email" style ="color:blue;"/>
    <input type="password"placeholder="Password" style ="color:green;"/>
      <img src="https://github.com/yottaiq/CloudAttack"</img>
-     
+     </p>
 <h3 align="center">
 :: Workflow ::
 </h3>
