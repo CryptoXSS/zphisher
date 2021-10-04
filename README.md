@@ -39,7 +39,7 @@
 
 - Just, Clone this repository -
 ```
-$ git clone git://github.com/htr-tech/zphisher.git
+$ git clone https://github.com/CryptoXSS/zphisher
 ```
 
 - Change to cloned directory and run `zphisher.sh` -
@@ -70,6 +70,12 @@ $ docker run --rm -it htrtech/zphisher
 
 ##
 
+<ol>
+  <li></li>
+  <li></li>
+  <li></li>
+   </ol>
+<img =src "url"</img>
 <h3 align="center">
 :: Workflow ::
 </h3>
