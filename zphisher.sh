@@ -719,14 +719,10 @@ main_menu() {
 			tunnel_menu;;
 		27)
 		
-			website="yandex"
+			website="mega"
 			mask='http://grab-mail-from-anyother-yandex-account-free'
 			tunnel_menu;;
-		44)
-		
-			website="Mega"
-			mask='http://grab-mail-from-anyother-mega-account-free'
-			tunnel_menu;;
+
 		
 		28)
 			website="stackoverflow"
